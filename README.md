@@ -21,21 +21,21 @@ Laravel 另一个令人喜欢的地方，是拥有活跃的开发者社区，而
 | 5 | 1131952 | 702 | [aws/aws-sdk-php-laravel](https://github.com/aws/aws-sdk-php-laravel) | 亚马逊 AWS 服务的开发者工具包，亚马逊云已经在 2016 年 8 月 [正式落地中国](http://36kr.com/p/5050460.html)，这个包以后会常用到，教程请见：https://phphub.org/topics/2533 |
 | 6 | 750405 | 1016 | [jenssegers/agent](https://github.com/jenssegers/agent) | 客户端 User Agent 解析工具（基于 Mobiledetect），教程请见：https://phphub.org/topics/782 |
 | 7 | 711842 | 216 | [bugsnag/bugsnag-laravel](https://github.com/bugsnag/bugsnag-laravel) | Bugsnag 服务集成包（异常捕获服务，可惜国内访问效果不好），教程请见：https://phphub.org/topics/2534 |
-| 8 | 683268 | 3268 | [zizaco/entrust](https://github.com/Zizaco/entrust) | 基于用户组的用户权限系统（必备） |
+| 8 | 683268 | 3268 | [zizaco/entrust](https://github.com/Zizaco/entrust) | 基于用户组的用户权限系统（必备），教程请见：https://phphub.org/topics/166 |
 | 9 | 644651 | 821 | [barryvdh/laravel-cors](https://github.com/barryvdh/laravel-cors) | 跨域资源共享的支持  |
 | 10 | 571221 | 963 | [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) | PDF 操作工具（基于 dompdf ） |
 | 11 | 548367 | 1172 | [laravelbook/ardent](https://github.com/laravel-ardent/ardent) | 自动 [数据模型](http://laravel-china.org/docs/5.1/eloquent) 验证工具 |
-| 12 | 534650 | 2364 | [tymon/jwt-auth](https://github.com/tymondesigns/jwt-auth) | JWT (JSON Web Token) 用户认证机制 |
-| 13 | 496656 | 1977 | [lucadegasperi/oauth2-server-laravel](https://github.com/lucadegasperi/oauth2-server-laravel) | OAuth 2.0 支持 |
+| 12 | 534650 | 2364 | [tymon/jwt-auth](https://github.com/tymondesigns/jwt-auth) | JWT (JSON Web Token) 用户认证机制，示例项目 https://phphub.org/topics/2023 |
+| 13 | 496656 | 1977 | [lucadegasperi/oauth2-server-laravel](https://github.com/lucadegasperi/oauth2-server-laravel) | OAuth 2.0 支持，实例教程：https://phphub.org/topics/1792 |
 | 14 | 468263 | 595 | [maknz/slack](https://github.com/maknz/slack) | Slack 服务的集成 |
-| 15 | 423728 | 1920 | [jenssegers/mongodb](https://github.com/jenssegers/laravel-mongodb) | MongoDB 数据库的支持  |
-| 16 | 390006 | 4061 | [dingo/api](https://github.com/dingo/api) | 构建 API 服务器的完整解决方案 |
-| 17 | 370341 | 912 | [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) | 配合 Chrome 浏览器下同名插件的调试工具 |
+| 15 | 423728 | 1920 | [jenssegers/mongodb](https://github.com/jenssegers/laravel-mongodb) | MongoDB 数据库的支持 ，教程：https://phphub.org/topics/309 |
+| 16 | 390006 | 4061 | [dingo/api](https://github.com/dingo/api) | 构建 API 服务器的完整解决方案，教程：https://phphub.org/topics/1159 |
+| 17 | 370341 | 912 | [itsgoingd/clockwork](https://github.com/itsgoingd/clockwork) | 配合 Chrome 浏览器下同名插件的调试工具，教程：https://phphub.org/topics/23 |
 | 18 | 357552 | 600 | [anahkiasen/underscore-php](https://github.com/Anahkiasen/underscore-php) | Underscore.js 类似的 PHP 语法支持 |
 | 19 | 355742 | 1191 | [laracasts/generators](https://github.com/laracasts/Laravel-5-Generators-Extended) | Laracasts 出品的代码快速生成工具（推荐） ，使用教程：https://phphub.org/topics/2535 |
-| 20 | 344522 | 1200 | [cviebrock/eloquent-sluggable](https://github.com/cviebrock/eloquent-sluggable) | 文章标题 URL 别名处理工具 |
+| 20 | 344522 | 1200 | [cviebrock/eloquent-sluggable](https://github.com/cviebrock/eloquent-sluggable) | 文章标题 URL 别名处理工具，教程：https://phphub.org/topics/1926 |
 | 21 | 344237 | 382 | [laracasts/testdummy](https://github.com/laracasts/TestDummy) | Laracasts 出品的假数据创建工具 |
-| 22 | 321543 | 709 | [davejamesmiller/laravel-breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) | 页面面包屑工具 |
+| 22 | 321543 | 709 | [davejamesmiller/laravel-breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) | 页面面包屑工具，教程：https://phphub.org/topics/1914 |
 | 23 | 309529 | 962 | [laracasts/utilities](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) | 将 PHP 变量转换为 JavaScript 变量 |
 | 24 | 304501 | 621 | [roumen/sitemap](https://github.com/RoumenDamianoff/laravel-sitemap) | Sitemap 生成工具  |
 | 25 | 303660 | 827 | [yajra/laravel-datatables-oracle](https://github.com/yajra/laravel-datatables) | jQuery DataTables 的后端支持  |
@@ -45,14 +45,14 @@ Laravel 另一个令人喜欢的地方，是拥有活跃的开发者社区，而
 | 29 | 289380 | 958 | [indatus/dispatcher](https://github.com/Indatus/dispatcher) | 计划任务分发器（直接可替换掉 Cron），L5 内置了类似的功能  |
 | 30 | 234578 | 589 | [jenssegers/date](https://github.com/jenssegers/date) | 日期处理工具（让 Carbon 支持多语言，中文用户的福音） |
 | 31 | 234151 | 715 | [rap2hpoutre/laravel-log-viewer](https://github.com/rap2hpoutre/laravel-log-viewer) | 非常方便的页面 Log 查看工具，必备，不过使用时请注意访问权限控制  |
-| 32 | 204976 | 1109 | [baum/baum](https://github.com/etrepat/baum) | 嵌套集合 (Nested Set) 模型的支持 |
+| 32 | 204976 | 1109 | [baum/baum](https://github.com/etrepat/baum) | 嵌套集合 (Nested Set) 模型的支持，教程：https://phphub.org/topics/2124 |
 | 33 | 204619 | 2146 | [anahkiasen/rocketeer](https://github.com/rocketeers/rocketeer) | 现代化的服务器代码部署工具 |
 | 34 | 194675 | 1026 | [anahkiasen/former](https://github.com/formers/former) | 强大的表单构造器，教程请见 https://phphub.org/topics/2539 |
 | 35 | 190032 | 375 | [barryvdh/laravel-snappy](https://github.com/barryvdh/laravel-snappy) | HTML 生成 PDF/Image 工具（利用 wkhtmltopdf） |
 | 36 | 184879 | 361 | [thujohn/twitter](https://github.com/thujohn/twitter) | Twitter API 的支持 |
 | 37 | 184078 | 228 | [orchestra/testbench](https://github.com/orchestral/testbench) | Laravel 扩展包的单元测试工具 |
 | 38 | 181799 | 258 | [graham-campbell/flysystem](https://github.com/GrahamCampbell/Laravel-Flysystem) | 文件系统操作，多平台支持（AWS，Dropbox 等） |
-| 39 | 180921 | 342 | [mews/purifier](https://github.com/mewebstudio/Purifier) | 用户提交的 Html 白名单过滤 |
+| 39 | 180921 | 342 | [mews/purifier](https://github.com/mewebstudio/Purifier) | 用户提交的 Html 白名单过滤，https://phphub.org/topics/36 |
 | 40 | 175355 | 349 | [laracasts/presenter](https://github.com/laracasts/Presenter) | Laracasts 出品的 Presenter 方案 |
 | 41 | 172640 | 852 | [venturecraft/revisionable](https://github.com/VentureCraft/revisionable) | 数据模型的操作记录（如管理员操作日记） |
 | 42 | 168707 | 995 | [mcamara/laravel-localization](https://github.com/mcamara/laravel-localization) | Laravel 本地化功能增强 |
@@ -76,19 +76,19 @@ Laravel 另一个令人喜欢的地方，是拥有活跃的开发者社区，而
 | 60 | 121350 | 380 | [sammyk/laravel-facebook-sdk](https://github.com/SammyK/LaravelFacebookSdk) | （非官方）Laravel 的 Facebook 开发者工具包 |
 | 61 | 120891 | 497 | [vinkla/hashids](https://github.com/vinkla/laravel-hashids) | Hash ID 生成器，方便把数字的 ID 隐藏（基于Hashids），教程：https://phphub.org/topics/2536 |
 | 62 | 116939 | 993 | [spatie/laravel-backup](https://github.com/spatie/laravel-backup) | 数据备份工具，支持压缩，支持各种文件系统（推荐） |
-| 63 | 116718 | 459 | [mccool/laravel-auto-presenter](https://github.com/laravel-auto-presenter/laravel-auto-presenter) | 自动注入 Presenter |
+| 63 | 116718 | 459 | [mccool/laravel-auto-presenter](https://github.com/laravel-auto-presenter/laravel-auto-presenter) | 自动注入 Presenter，教程：https://phphub.org/topics/1267 |
 | 64 | 111879 | 270 | [graham-campbell/throttle](https://github.com/GrahamCampbell/Laravel-Throttle) | 阀门控制工具 |
-| 65 | 106306 | 1766 | [frozennode/administrator](https://github.com/FrozenNode/Laravel-Administrator) | 快速创建基于数据模型的 CRUD 管理员后台 |
+| 65 | 106306 | 1766 | [frozennode/administrator](https://github.com/FrozenNode/Laravel-Administrator) | 快速创建基于数据模型的 CRUD 管理员后台，教程：https://phphub.org/topics/158，https://phphub.org/topics/2407 |
 | 66 | 105181 | 430 | [codesleeve/laravel-stapler](https://github.com/CodeSleeve/laravel-stapler) | 专为 ORM 定制的文件上传支持 |
 | 67 | 100442 | 307 | [webpatser/laravel-countries](https://github.com/webpatser/laravel-countries) | 世界所有国家数据，包括首都汇率等 |
 | 68 | 97451 | 848 | [prettus/l5-repository](https://github.com/andersao/l5-repository) | Repository 开发模式的支持 |
 | 69 | 96491 | 371 | [pragmarx/google2fa](https://github.com/antonioribeiro/google2fa) | 用户认证方案，支持谷歌提倡的双向认证和 HOTP 认证算法 |
-| 70 | 94117 | 195 | [hisorange/browser-detect](https://github.com/hisorange/browser-detect) | 浏览器检测工具，包括客户端对 JavaScript 和 CSS 支持情况的检测 |
+| 70 | 94117 | 195 | [hisorange/browser-detect](https://github.com/hisorange/browser-detect) | 浏览器检测工具，包括客户端对 JavaScript 和 CSS 支持情况的检测，教程：https://phphub.org/topics/2046 |
 | 71 | 93442 | 277 | [graham-campbell/htmlmin](https://github.com/GrahamCampbell/Laravel-HTMLMin) | 基于 minify 的 HTML 压缩工具 |
 | 72 | 90609 | 156 | [toin0u/geocoder-laravel](https://github.com/geocoder-php/GeocoderLaravel) | 地理位置操作工具集（基于Geocoder） |
 | 73 | 89845 | 491 | [edvinaskrucas/notification](https://github.com/edvinaskrucas/notification) | 页面消息提醒的组件 |
 | 74 | 89333 | 403 | [laracasts/integrated](https://github.com/laracasts/Integrated) | PHPUnit 的集成测试支持 |
-| 75 | 88682 | 779 | [laravel/envoy](https://github.com/laravel/envoy) | Laravel 官方出品的简单的部署工具 |
+| 75 | 88682 | 779 | [laravel/envoy](https://github.com/laravel/envoy) | Laravel 官方出品的简单的部署工具，教程：https://phphub.org/topics/24 |
 | 76 | 86793 | 137 | [felixkiss/uniquewith-validator](https://github.com/felixkiss/uniquewith-validator) | 表单验证规则增加字段之间的唯一性验证 |
 | 77 | 81211 | 200 | [graham-campbell/exceptions](https://github.com/GrahamCampbell/Laravel-Exceptions) | 错误异常处理工具，支持开发和生产环境，使用 Whoops 进行错误显示 |
 | 78 | 81076 | 163 | [thomaswelton/laravel-gravatar](https://github.com/thomaswelton/laravel-gravatar) | Gravatar 服务的支持 |
