@@ -6,7 +6,9 @@ Laravel 另一个令人喜欢的地方，是拥有活跃的开发者社区，而
 
 相信下面这 100 个扩展包会让你的编码更加高效 :beers:
 
-> 讨论请前往：https://phphub.org/topics/2530，放 GitHub 上方便跟踪修改和接受 PR。
+> 讨论请前往：https://phphub.org/topics/2530 ，放 GitHub 上方便跟踪修改和接受 PR。
+
+> 转载请注明来自于 PHPHub，并贴上本文章链接：https://phphub.org/topics/2530
 
 ## 排名
 
