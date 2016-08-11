@@ -78,7 +78,7 @@ Laravel 另一个令人喜欢的地方，是拥有活跃的开发者社区，而
 | 62 | 116939 | 993 | [spatie/laravel-backup](https://github.com/spatie/laravel-backup) | 数据备份工具，支持压缩，支持各种文件系统（推荐） |
 | 63 | 116718 | 459 | [mccool/laravel-auto-presenter](https://github.com/laravel-auto-presenter/laravel-auto-presenter) | 自动注入 Presenter，教程：https://phphub.org/topics/1267 |
 | 64 | 111879 | 270 | [graham-campbell/throttle](https://github.com/GrahamCampbell/Laravel-Throttle) | 阀门控制工具 |
-| 65 | 106306 | 1766 | [frozennode/administrator](https://github.com/FrozenNode/Laravel-Administrator) | 快速创建基于数据模型的 CRUD 管理员后台，教程：https://phphub.org/topics/158，https://phphub.org/topics/2407 |
+| 65 | 106306 | 1766 | [frozennode/administrator](https://github.com/FrozenNode/Laravel-Administrator) | 快速创建基于数据模型的 CRUD 管理员后台，教程：https://phphub.org/topics/158, https://phphub.org/topics/2407 |
 | 66 | 105181 | 430 | [codesleeve/laravel-stapler](https://github.com/CodeSleeve/laravel-stapler) | 专为 ORM 定制的文件上传支持 |
 | 67 | 100442 | 307 | [webpatser/laravel-countries](https://github.com/webpatser/laravel-countries) | 世界所有国家数据，包括首都汇率等 |
 | 68 | 97451 | 848 | [prettus/l5-repository](https://github.com/andersao/l5-repository) | Repository 开发模式的支持 |
