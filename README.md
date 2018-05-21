@@ -115,3 +115,4 @@ Laravel 另一个令人喜欢的地方，是拥有活跃的开发者社区，而
 | 98 | 57174 | 348 | [lord/laroute](https://github.com/aaronlord/laroute) | JavaScript 读取路由信息的解决方案 |
 | 99 | 57053 | 643 | [spatie/laravel-analytics](https://github.com/spatie/laravel-analytics) | Google 统计数据获取工具 |
 | 100 | 56639 | 118 | [hieu-le/active](https://github.com/letrunghieu/active) | 非常方便的方案来判断导航元素的 `active` 状态 |
+| 101 | 46510 | 1116 | [renatomarinho/laravel-page-speed](https://github.com/renatomarinho/laravel-page-speed) | Laravel Page Speed |
